@@ -3,3 +3,4 @@ for i in range(5):
     print("Привет 11 класс!")
 
 print("Пока!")
+
